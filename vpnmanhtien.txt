@@ -5,6 +5,6 @@ vless://OjZkYzljZTllLTYzY2MtNDFjYi05ZDczLWM3OTNiMTliYjZlN0AxNi4yMDguNzcuMTMyOjQ0
 # Sing aws
 vless://OjZiN2E3NTBmLWI0Y2ItNGY2MS05YWQ0LTA5MzY4Nzk5ODE1N0A1NC4yNTUuMTcxLjMwOjMzNTg1?path=vpjn&remarks=%F0%9F%87%B8%F0%9F%87%ACSingapore&obfs=grpc&tls=1&peer=www.apple.com&pbk=WaUMS9C_iXrGzcdpNGaqZGTpv8pCIBltJ5N_XgJm4lU&sid=70
 # Việt nam VPN 07.com HSD:10/7
-vless://OmJjMTNjMGM2LWVkYmItNDFhMy04ODQ0LWMxYmQxNzNmMDQ3OUBqcC5jaGluYWZvcnVtcGFjZS5jb206MjEzNjI?remarks=%F0%9F%87%BB%F0%9F%87%B3Vi%E1%BB%87t%20Nam&tls=1&peer=www.cctv.com&xtls=2&pbk=nYJ4GwGW8OGbpGfR82rFQdNIGgcsO7sFL3m2sifQzUM&sid=abcd64
+vless://OmJjMTNjMGM2LWVkYmItNDFhMy04ODQ0LWMxYmQxNzNmMDQ3OUBqcC5jaGluYWZvcnVtcGFjZS5jb206MjEzNjI?remarks=%F0%9F%87%BB%F0%9F%87%B3Vi%E1%BB%87t%20Nam%20%5BHSD:10-7%5D&tls=1&peer=www.cctv.com&xtls=2&pbk=nYJ4GwGW8OGbpGfR82rFQdNIGgcsO7sFL3m2sifQzUM&sid=abcd64
 # Việt nam 2 NPC-Cloud HSD : 21/7
-anytls://8d3e4065-bb47-4ef0-af41-1faab5e63ca6@165.101.114.57:20569?peer=www.apple.com&insecure=1&udp=1#%F0%9F%87%BB%F0%9F%87%B3%20Vi%E1%BB%87t%20Nam%202
+anytls://8d3e4065-bb47-4ef0-af41-1faab5e63ca6@165.101.114.57:20569?peer=www.apple.com&insecure=1&udp=1#%F0%9F%87%BB%F0%9F%87%B3%20Vi%E1%BB%87t%20Nam%202%20%5BHSD:%2021-7%5D
