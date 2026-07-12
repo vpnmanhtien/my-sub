@@ -2,3 +2,4 @@
 anytls://8d3e4065-bb47-4ef0-af41-1faab5e63ca6@165.101.114.57:20569?peer=www.apple.com&insecure=1&udp=1#%F0%9F%87%BB%F0%9F%87%B3%20Vi%E1%BB%87t%20Nam%202%20%5BHSD:%2021-7%5D
 vmess://YXV0bzo5NGM0NzQ2Ny1mZTIyLTRhZDEtOTljNi0yMDEyNWM5YjU2ZGFANDUuMTkyLjIwMC4xMTI6NDIyMTk?path=/&remarks=%F0%9F%87%AF%F0%9F%87%B5Nh%E1%BA%ADt%20B%E1%BA%A3n%202&obfs=websocket&udp=1&alterId=0
 vless://OjViNzliNmRhLTg1YzktNGZlMi1hYTQyLTUwZDVkOWM0YjI5YUAxMDQuMTkuNTguMTE4OjQ0Mw?path=/kbjc/us1&remarks=%F0%9F%87%BA%F0%9F%87%B8M%C4%A9&obfsParam=us1-us1.aiopen.sbs&obfs=websocket&tls=1&peer=us1-us1.aiopen.sbs&udp=1
+vless://bm9uZTo1Yjc5YjZkYS04NWM5LTRmZTItYWE0Mi01MGQ1ZDljNGIyOWFAMTA4LjE2Mi4xOTguMzA6NDQz?path=/kbjc/jp1&remarks=%F0%9F%87%AF%F0%9F%87%B5%E6%97%A5%E6%9C%AC%20%7C%200.1%E5%80%8D&obfsParam=jp1-jp1.aiopen.sbs&obfs=websocket&tls=1&peer=jp1-jp1.aiopen.sbs&udp=1
